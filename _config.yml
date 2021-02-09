@@ -4,7 +4,7 @@ title: "Pejuang Receh"
 description: "Berbagi Informasi Onlien Yang Mendidik"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: "/blog"
+baseurl: "/blog/"
 google_analytics: 'G-S8WBW5V67Q'
 disqus: 'postkomik-github-1'
 
