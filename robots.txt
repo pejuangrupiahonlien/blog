@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://postkomik.github.io/sitemap.xml
+Sitemap: https://pejuangrupiahonlien.github.io/blog/sitemap.xml
